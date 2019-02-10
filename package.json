@@ -6,7 +6,8 @@
   "repository": "akameco/string-snapshot-serializer",
   "author": "akameco <akameco.t@gmail.com> (https://akameco.github.io)",
   "files": [
-    "dest"
+    "dest",
+    "serializer.js"
   ],
   "main": "dest/index.js",
   "types": "dest/index.d.ts",

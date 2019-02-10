@@ -1,6 +1,6 @@
 {
   "name": "string-snapshot-serializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "serializer for string escape",
   "license": "MIT",
   "repository": "akameco/string-snapshot-serializer",
